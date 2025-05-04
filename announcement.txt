@@ -1,1 +1,0 @@
-{"user": "mishammaliy", "text": "test"}
